@@ -461,7 +461,7 @@ VAL_ 1552 METER_SLIDER_LOW_BRIGHTNESS 1 "Low brightness mode, footwell lights of
 VAL_ 1552 METER_SLIDER_DIMMED 1 "Dimmed" 0 "Not Dimmed";
 VAL_ 1552 UNITS 1 "km (km/L)" 2 "km (L/100km)" 3 "miles (MPG US)" 4 "miles (MPG Imperial)";
 VAL_ 1553 UNITS 1 "km" 2 "miles";
-VAL_ 1556 TURN_SIGNALS 3 "none" 2 "right" 1 "left";
+VAL_ 1616 TURN_SIGNALS 10 "right" 5 "left";
 VAL_ 1592 LOCK_STATUS 0 "locked" 1 "unlocked";
 
 CM_ "toyota_new_mc_pt.dbc starts here";
